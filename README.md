@@ -39,6 +39,9 @@
   <a href="youtube.com/@ThePhantomBeast" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
+<a href="guns.lol/vyoum" target="_blank">
+    <img src="https://i.ibb.co/03xQfCW/IMG-20250326-WA0004.jpg" height="35" alt="youtube logo"  />
+  </a>
   <a href="instagram.com/vyoum.r" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
